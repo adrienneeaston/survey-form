@@ -2,3 +2,12 @@ body {
   background: aqua;
   text-align: center;
 }
+
+fieldset {
+  background-color: aquamarine;
+}
+
+#survey-form {
+  width: 600px;
+  margin: auto;
+}
